@@ -26,9 +26,7 @@ public static void main(String args[]) {
   }
 
   // time O(N) <-- (N + N = N because it is linear). 
-  // space O(1) <-- We add hashMap but it's not more then 26 characters (letters in word). 
-  //    This make constant value here 
-
+  // space O(1) <-- We add hashMap but it's not more then 26 characters (letters in word and this make constant value here). 
   public int firstNonRepeatingCharacter_2(String string) {
     HashMap<Character, Integer> charMap = new HashMap<>();
 
