@@ -1,8 +1,5 @@
 package AlgoEx;
 
-import java.util.LinkedList;
-import java.util.Queue;
-
 public class BinaryTreeDiameter {
     int diameter = 0;
 

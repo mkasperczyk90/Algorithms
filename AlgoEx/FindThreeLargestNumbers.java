@@ -1,7 +1,5 @@
 package AlgoEx;
 
-import java.util.*;
-
 class FindThreeLargestNumbers {
   public static void main(String args[]) {
     FindThreeLargestNumbers program = new FindThreeLargestNumbers();

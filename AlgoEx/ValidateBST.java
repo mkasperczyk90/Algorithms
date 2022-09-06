@@ -1,8 +1,5 @@
 package AlgoEx;
 
-import java.security.cert.CertPathValidatorException.Reason;
-import java.util.*;
-
 class ValidateBST {
   public static void main(String args[]) {
     ValidateBST program = new ValidateBST();
